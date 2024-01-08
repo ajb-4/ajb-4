@@ -5,7 +5,8 @@
 </h1>
 <h2>
 I am a full stack engineer who intends to specialize in backend/API work. 
-  
+/br
+/br
 Below checkout my Zillow clone, Chillow, a full stack application using Postgres, Ruby on Rails, and React/Redux. You'll also see Running Idle, a group project that leverages the MERN (Mongo DB, Express, React, and Node.js) framework to bring users a  retro themed and motivating real-world running game.
 
 </h2>
