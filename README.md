@@ -27,7 +27,6 @@
   :hammer_and_wrench: Languages and Tools :
 </h1>
 <div>
-  icons/rails/rails-plain-wordmark.svg
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="65" height="65"/>&nbsp;
