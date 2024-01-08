@@ -12,6 +12,15 @@
     </br> 
     Below checkout my Zillow clone, Chillow, a full stack application using Postgres, Ruby on Rails, and React/Redux. You'll also see Running Idle, a group project that leverages the MERN (Mongo DB, Express, React, and Node.js) framework to bring users 
     a retro themed and motivating real-world running game.
+    </br>
+    </br>
+    [Chillow](https://chillow-xur2.onrender.com/)
+    </br>
+    </br>
+    [Running Idle](https://running-idle.onrender.com/)
+    </br>
+    </br>
+    Reach me at alexbrown4711@gmail.com or [my LinkedIn](https://www.linkedin.com/in/alex-brown-85a330198/)
   </h2>
 <h1>
   :hammer_and_wrench: Languages and Tools :
