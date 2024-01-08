@@ -14,13 +14,14 @@
     a retro themed and motivating real-world running game.
     </br>
     </br>
-    [Chillow](https://chillow-xur2.onrender.com/)
+    <a href="https://chillow-xur2.onrender.com/">Chillow</a>
     </br>
     </br>
-    [Running Idle](https://running-idle.onrender.com/)
+    <a href="https://running-idle.onrender.com/">Running Idle</a>
     </br>
     </br>
-    Reach me at alexbrown4711@gmail.com or [my LinkedIn](https://www.linkedin.com/in/alex-brown-85a330198/)
+    Reach me at alexbrown4711@gmail.com or
+    <a href="https://www.linkedin.com/in/alex-brown-85a330198/">my LinkedIn</a>
   </h2>
 <h1>
   :hammer_and_wrench: Languages and Tools :
